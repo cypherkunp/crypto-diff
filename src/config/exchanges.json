@@ -1,0 +1,3 @@
+{
+  "supported": ["binance", "bitfinex", "okex", "bittrex", "kucoin", "kraken"]
+}

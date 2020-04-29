@@ -1,0 +1,25 @@
+{
+  "name": "crypto-diff",
+  "version": "1.0.0",
+  "description": "Crypto Arbitrage Project",
+  "main": "cli.js",
+  "repository": "git@github.com:devvratshukla/crypto-diff.git",
+  "homepage": "https://github.com/devvratshukla/crypto-diff#readme",
+  "author": "Devvrat Shukla <devvratshukla@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ansicolor": "^1.1.93",
+    "as-table": "^1.0.55",
+    "ccxt": "^1.26.5",
+    "chalk": "^4.0.0",
+    "ololog": "^1.1.156",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "prettier": "1.16.1"
+  }
+}
